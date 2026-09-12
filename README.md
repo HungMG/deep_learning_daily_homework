@@ -1,2 +1,6 @@
-# deep_learning_daily_homework
-Bài tập hàng ngày môn Deep Learning - Võ Huỳnh Minh Sang - DCT123C4
+# Deep Learning Daily Homework
+
+## Thông tin sinh viên
+- **Họ và tên:** Võ Huỳnh Minh Sang
+- **Lớp:** DCT123C4
+- **MSSV:** 3123411256
